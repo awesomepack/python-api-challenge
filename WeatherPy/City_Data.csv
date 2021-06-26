@@ -1,2 +1,559 @@
-City_Name,Longitude,Lattitude,Temperature,Humidity,Cloudiness,Wind Speed
-San Diego,-117.1573,32.7153,71.69,73,1,1.99
+City_Name,Temperature,Humidity,Cloudiness,Wind Speed
+Katsuura,74.25,86,100,9.51
+Srostki,46.85,90,54,3.71
+‘Āhuimanu,83.05,57,20,8.05
+São João da Barra,71.08,74,10,12.12
+Leningradskiy,51.84,48,96,2.04
+Kattivākkam,84.07,75,100,11.48
+Donauwörth,59.52,87,73,4.21
+Alofi,76.89,69,27,20.71
+Hilo,81.93,60,1,11.5
+Ahipara,62.4,82,100,14.52
+Clarksville,87.04,55,1,11.5
+Apango,69.33,71,100,7.58
+Letlhakane,56.35,35,0,5.08
+Alihe,64.13,92,23,1.12
+Adeje,66.69,75,20,4
+Alice Town,81.91,75,100,18.34
+Bluff,45.81,89,99,9.24
+Kapaa,83.12,72,1,1.99
+Lyuban',63.5,96,100,1.97
+Gigmoto,81.03,82,83,3.6
+Iralaya,80.69,71,10,8.5
+Nogliki,45.82,96,100,6.82
+Magadan,58.41,79,20,2.48
+Cockburn Town,82.36,69,40,11.5
+Ambon City,75.34,94,20,6.91
+Zelenets,62.85,73,54,3.62
+Ambulu,74.53,93,78,2.91
+Ponta do Sol,68.43,74,14,3.13
+Belyy Yar,48.09,87,0,4.47
+Porto-Novo,76.82,91,99,1.88
+Praia,79.34,73,40,8.05
+Mt. Pleasant,83.59,79,75,1.99
+São José da Coroa Grande,74.03,74,82,10.31
+Rock Sound,80.83,73,7,14.9
+Leshukonskoye,51.96,91,47,5.68
+Skerries,53.13,87,71,15.75
+Wilmington,81.43,78,20,9.22
+Aswān,88.63,21,0,10.69
+Saint-Ambroise,65.8,97,100,3.62
+Sopotnica,66.45,61,0,4.12
+Qui Nhon,80.49,73,58,3.18
+Dunedin,50.81,93,99,4.18
+Ţepu,67.86,87,39,7.54
+São Filipe,76.51,83,47,4.88
+Lendinara,72.46,63,22,4.92
+Adrar,93.88,14,4,5.79
+Ulagan,43.11,95,93,0.83
+Lianzhou,75.78,98,100,2.91
+Saint-Augustin,59.9,90,99,16.51
+San Patricio,89.49,59,78,16.46
+Balikpapan,76.19,100,40,2.3
+Shaowu,76.57,95,100,1.61
+Damietta,80.49,76,0,5.5
+Bredasdorp,49.32,81,100,1.14
+Bambanglipuro,75.45,93,65,2.55
+Cascais,62.89,72,20,5.01
+Pozo Colorado,70.25,70,100,11.65
+Banda Aceh,78.08,82,100,12.3
+Doha,89.55,62,0,3.44
+Khargone,78.93,75,88,9.19
+Carutapera,76.08,89,13,5.59
+Jizan,90.54,59,99,1.72
+Anadyr,50.5,62,0,8.95
+Makkah al Mukarramah,88.34,30,12,4.56
+La Santisima Trinidad,84.18,70,40,3.44
+Atlantic Beach,81.23,71,20,9.22
+Miyako,68.99,83,92,1.57
+Villanueva de Córdoba,71.33,39,25,7.07
+Saint-Prosper,62.91,98,100,9.04
+Bondeno,73.26,48,22,6.78
+Asău,67.78,88,38,4.34
+Sorgun,60.76,86,27,4.81
+Okha,50.77,74,11,10.31
+Ullapool,50.38,72,99,0.72
+Hobyo,77.18,86,78,27.74
+Oxapampa,62.2,93,78,1.77
+Cortes,72.88,72,96,7.23
+Kavieng,82.22,74,100,5.28
+Markova,59.52,96,81,5.17
+Yambio,72.79,64,68,2.62
+Puerto Escondido,79.63,61,90,9.22
+Santa Marta,81.21,81,93,8.34
+Kieta,81.86,75,59,1.61
+Verkhnevilyuysk,67.37,80,71,1.28
+Orël-Izumrud,69.82,94,20,4.47
+Tuatapere,45.82,92,100,3.78
+Fort Walton Beach,85.14,71,1,5.99
+Green River,70.25,32,48,9.86
+Mogadishu,77.23,86,55,18.19
+Flin Flon,78.64,44,75,6.91
+Xilitla,84.11,59,94,5.97
+Gritsovskiy,69.48,88,13,5.01
+Atagay,51.15,85,71,1.81
+Chokurdakh,63.77,49,100,10.96
+Nova Russas,80.85,40,23,2.59
+Ixtapa,81.63,78,90,9.22
+Atuona,78.49,70,62,23.29
+Hermanus,54.9,76,80,10.25
+Port Alfred,55.92,76,62,13.38
+Port Elizabeth,57.49,77,0,11.5
+Lorengau,81.41,78,79,3.96
+Hong Kong,84.18,91,97,4
+Faanui,79.74,78,4,6.82
+Taoudenni,103.87,8,2,7.83
+Fort Nelson,87.39,23,20,12.66
+Kumul,78.15,22,92,6.08
+Inírida,78.93,89,61,0.78
+Gwadar,82.54,79,33,6.67
+Tessalit,96.26,6,1,9.26
+Guayaramerín,81.75,59,88,1.79
+Sarandi,72.95,64,0,6.91
+Senneterre,71.82,98,100,5.35
+Namatanai,81.45,75,97,3.69
+Itarema,77.07,78,2,8.48
+Sept-Îles,60.85,86,90,4.61
+The Pas,78.82,47,40,10.36
+Shaunavon,80.38,35,3,15.19
+Richards Bay,62.13,68,2,1.66
+Paragominas,78.33,69,96,4.21
+Ponta do Sol,68.43,74,14,3.13
+Pisco,66.25,68,20,13.8
+Port Moresby,74.62,94,20,9.22
+Kampong Thom,76.62,86,22,2.53
+Gamba,72.1,95,90,5.59
+Jaciara,77.65,31,3,3.56
+Pasni,82.47,78,100,6.89
+Premnitz,63.05,78,10,4.09
+Severo-Kuril'sk,46.26,87,80,15.64
+Kearney,78.06,50,75,14.97
+Tasiilaq,50.16,62,2,7.72
+Kaputa,65.16,53,2,1.99
+Severomorsk,50.4,69,96,5.48
+South Kazakhstan Region,75.07,22,1,13.69
+Mnogovershinnyy,59.2,63,7,1.41
+Upernavik,37.67,97,100,14.36
+Mahébourg,73.69,83,75,9.22
+Ribeira Grande,68.04,78,21,11.27
+Naze,77.92,89,100,11.27
+Martigues,70.5,68,0,3.44
+Lüshunkou,70.02,93,60,10.33
+Lebu,47.03,73,1,14.72
+Tūkrah,81.32,53,0,7.38
+Boende,79.57,54,75,1.16
+Atar,95.88,13,17,4.16
+Manaure,83.43,73,100,7.34
+Tiksi,34.79,87,100,8.72
+San Cristobal,77.18,78,76,2.93
+Forsytheganj,63.37,98,100,7.2
+George Town,78.64,91,20,3.44
+Zhangaözen,89.02,25,26,12.86
+Meulaboh,74.95,91,92,6.38
+Jamestown,81.36,64,75,7
+Lucapa,69.06,38,1,3.38
+Hervey Bay,55.02,91,100,7
+Rawson,44.02,70,98,25.99
+Hobart,47.23,75,40,1.01
+Broken Hill,42.42,78,0,3.02
+Tsimmerbude,55.45,89,4,6.64
+Bambous Virieux,73.65,83,75,9.22
+Arrondissement de Mende,52.92,84,33,5.14
+Zhangjiakou,69.22,65,2,2.35
+Elko,87.57,17,25,5.99
+Río Gallegos,33.85,80,0,6.91
+Mossamedes,66.88,83,32,6.49
+Hay River,75.18,46,75,14.97
+Sorong,78.12,87,73,6.24
+Honāvar,77.54,86,100,5.46
+Saldus,55.81,98,28,3.67
+Kurchum,52.93,70,85,7
+Hearst,79.05,37,100,4.03
+Nokha,87.48,49,59,16.37
+Burnie,46.92,67,21,10.98
+Jiuquan,68.45,47,53,1.9
+Coahuayana Viejo,83.68,91,100,3.58
+Yārāda,80.92,89,75,2.3
+Marrakesh,78.87,50,0,4.61
+Busselton,55.04,62,82,26.17
+Karratha,64.56,49,100,6.67
+Champasak,72.82,99,97,2.28
+Avarua,75.25,69,75,14.97
+Matamoros,95.11,23,40,9.22
+Toribío,71.06,92,89,0.31
+Juegang,74.28,96,100,2.44
+Līsakovsk,68.07,78,79,6.04
+Ancud,42.22,82,6,5.73
+Beyla,68.85,95,13,3.24
+Cairns,70.84,89,90,11.5
+Matthews,84.65,65,1,1.01
+Kiama,53.04,67,0,8.99
+Örnsköldsvik,50.95,93,63,0
+Noto,80.78,48,26,6.6
+Cayenne,82.09,79,0,4
+Kupang,79.38,83,40,12.66
+Carnarvon,46.47,58,89,10.36
+Micheweni,74.43,73,2,11.97
+Mporokoso,55.31,54,0,4.54
+Grand-Santi,73.6,97,100,3.15
+Inongo,73.02,66,49,2.37
+Turbat,82.31,75,58,6.51
+Noshiro,70.74,70,100,3.02
+Mulegé,94.87,37,35,10.4
+Sangar,69.76,52,27,4.88
+Tiznit Province,70.83,49,0,1.14
+Berck,62.6,94,99,10.36
+Kamenka,67.6,78,64,8.03
+Comodoro Rivadavia,42.66,65,0,4.61
+Charters Towers,57.9,90,100,11.36
+Tezu,76.37,99,100,1.81
+Mata,59.94,84,95,5.73
+Minot,68.99,64,75,10.36
+Buchanan,76.96,84,99,6.64
+Narva-Jõesuu,60.62,91,17,1.63
+Codrington,51.85,85,69,6.71
+Bubaque,77.88,85,100,8.5
+Quirinópolis,73.67,30,1,4.07
+Kharp,52.59,66,100,5.06
+Airai,57.9,95,79,4.25
+Brae,49.91,86,96,13.65
+Barra dos Coqueiros,73.42,88,75,10.36
+Beruwala,78.58,85,97,11.41
+Adré,90.75,16,100,2.48
+Kloulklubed,83.43,73,100,8.97
+Luís Correia,77.67,80,14,7.07
+Longyearbyen,40.84,81,0,9.22
+Yulara,37.24,87,9,5.75
+Tādepallegūdem,81.5,79,99,6.53
+Khatanga,48.97,48,72,7.67
+Nelson Bay,49.24,87,0,1.01
+Lac du Bonnet,77.59,49,60,8.86
+Villarrica,64.76,97,100,7.52
+Robertsport,79.43,78,100,7.58
+Santa Lucía,61.9,68,75,20.71
+Beira,68.18,91,1,8.59
+New Norfolk,45.82,79,82,5.37
+Tshikapa,73.6,37,25,2.19
+Hirara,84.47,94,75,10.36
+Akom,67.26,96,18,2.51
+Jūybār,82.65,36,0,4.65
+Chokwé,65.62,92,0,8.05
+Dikson,32.67,84,20,2.21
+Arraial do Cabo,72.01,78,14,23.78
+Mayo,82.67,82,1,3
+Lagoa,67.05,78,18,11.18
+Inhambane,66.88,68,0,4.59
+Polovinnoye,62.42,91,97,8.79
+Maceió,74.64,78,0,3.44
+Tromsø,45.88,87,75,5.75
+Melfort,80.73,32,96,12.66
+Vila Velha,69.75,83,40,2.3
+Lavrentiya,44.13,88,100,8.03
+Jaffna,82.65,81,100,18.97
+Zhigansk,60.91,82,100,5.68
+Port Augusta,47.71,79,0,4.07
+La Ronge,75.45,46,90,8.05
+Boyabat,65.82,90,6,2.01
+Shimoda,71.1,82,100,5.86
+Linxia Chengguanzhen,58.93,82,69,3.09
+Portland,104.04,29,1,1.01
+Dingle,76.55,89,100,4.23
+Port Lincoln,54.19,89,10,8.37
+Dudinka,45.43,60,100,20.67
+Gushikawa,77.88,91,90,10.36
+Kulu,69.33,56,18,6.13
+Port Macquarie,46.29,68,0,4.05
+Guantánamo,83.61,88,77,2.71
+Sørland,50.09,84,92,31.47
+Pemba,75.18,70,0,9.95
+Morgan City,85.71,74,20,5.75
+Lesogorskiy,64.13,90,4,4.52
+Kinsale,54.77,76,20,12.66
+Ishigaki,80.73,100,75,4.61
+Lawrenceburg,85.15,56,1,10
+Wajima,71.02,84,100,5.06
+Norman Wells,82.44,30,40,5.75
+Preobrazheniye,61.9,81,43,3.78
+Boca do Acre,78.98,73,100,1.68
+Makurdi,74.21,91,91,4.29
+Bogoslovka,64.11,92,67,4.97
+Pihuamo,75.09,88,100,9.37
+Trāl,59.94,62,5,2.95
+Beringovskiy,39.61,85,34,5.73
+Pareora,45.18,97,7,4.88
+Morondava,64.99,67,0,7.49
+Nosy Varika,65.1,89,16,5.7
+Melendugno,77.38,78,0,6.91
+Klyuchi,58.89,63,100,5.5
+Sompeta,83.21,79,62,4.92
+Klyuchi,58.89,63,100,5.5
+San Fernando,78.87,88,95,1.81
+Kaitangata,46.56,88,100,4.76
+Aklavik,60.8,63,75,13.8
+Isangel,78.91,73,75,3.44
+Guerrero Negro,73.42,64,10,18.07
+Hamilton,85.08,61,1,3
+Wick,50.05,81,99,2.3
+Tahoua,96.21,24,77,8.75
+Craig,66.09,45,90,17.27
+Saint George,100.42,14,1,3
+Russellville,91.13,54,1,6.91
+Einbeck,59.97,84,15,1.92
+Ranong,78.6,87,99,7.18
+Hofn,52.21,63,52,6.62
+Bonaventure,68.92,77,100,3.44
+Ibrā’,79.09,59,0,3.02
+Prince Rupert,69.26,70,1,6.91
+Husavik,64.31,67,53,1.83
+Solnechnyy,55.83,96,99,3.42
+Maţāy,86.68,30,0,9.17
+Saint-Joseph,67.35,78,8,4.5
+Requena,65.39,59,26,3.91
+Zaterechnyy,80.49,41,100,9.33
+Nizwá,83.44,48,21,1.66
+Shuiji,76.44,96,100,1.86
+Vila,53.58,90,100,2.86
+Bengkulu,74.28,90,33,4.23
+Araouane,94.62,17,25,2.62
+Koumac,74.66,67,86,4.72
+Russell,85.69,58,1,5.75
+Salalah,80.69,89,75,5.75
+Dibulla,80.42,86,100,2.51
+Dwārka,83.34,70,94,14.36
+Great Yarmouth,58.55,93,100,10.56
+Saint-Philippe,67.89,79,17,7.25
+Olafsvik,48.78,86,100,12.41
+Erzin,75.02,80,0,0.72
+San Andrés,78.82,78,75,4.61
+Bilibino,67.26,31,100,1.28
+Silifke,82.44,51,0,8.79
+Evensk,58.66,73,90,7.31
+Nortelândia,83.71,37,23,3.78
+Vestmannaeyjar,49.08,88,46,7.25
+Nauta,77.79,81,94,3.67
+Goderich,77.38,73,100,19.57
+Pangnirtung,41.11,96,100,4.12
+Bela,83.07,79,93,5.37
+Manturovo,66.65,82,26,1.7
+Botucatu,67.14,50,100,1.57
+Caranavi,64.76,96,54,1.7
+Berlevåg,46.2,91,100,2.37
+Ossora,51.3,82,94,2.84
+Boundiali,70.52,95,100,1.5
+Imbituba,65.82,90,95,12.64
+Inta,52.97,91,100,2.24
+Oktyabr'skoye,68.14,94,100,4.47
+Yinchuan,78.33,30,10,3.02
+Calvinia,43.97,75,31,5.95
+Ostrovnoy,43.65,83,82,3.65
+Cape Town,55.89,67,40,3
+Kruisfontein,51.89,84,96,7.78
+Tongzi,73.8,96,100,1.77
+Khovd,55,41,17,5.55
+Fuling,76.42,98,99,1.41
+Mandalgovi,71.38,30,96,9.51
+Ushuaia,38.86,81,0,3.44
+Ōfunato,69.84,83,95,0.85
+Yining,77.67,93,91,1.5
+Corn Island,78.73,80,100,16.22
+Wangkui,66.88,86,13,5.39
+Marawi,67.64,93,97,1.92
+Butaritari,82.51,76,100,13.22
+Fuyang,72.37,98,100,4.52
+Palekastro,81.12,58,0,9.89
+Thornaby,54.68,80,100,1.01
+Praia da Vitória,71.85,78,40,4.61
+Hammerfest,46.85,93,75,4.61
+Raja,72.37,78,80,6.49
+Sawākin,87.82,51,80,3.22
+Saskylakh,45.88,56,80,7.23
+Majene,75.83,88,100,4.07
+Marquard,35.89,61,4,3.4
+Brainerd,73.04,64,90,6.91
+Campo Verde,78.01,29,97,5.99
+Bathsheba,83.01,57,20,21.85
+Koygorodok,60.03,81,6,4.7
+Havøysund,47.28,87,100,5.37
+Yuci,74.95,69,76,8.95
+Wencheng,74.55,95,100,1.95
+Katobu,73.71,96,100,6.31
+Durban,60.55,78,1,4
+Cabo San Lucas,91.08,48,1,9.22
+Dalen,62.94,88,78,7.18
+East London,58.17,67,29,11.07
+Kawalu,71.33,98,33,1.54
+Yueyang,80.06,86,99,3.56
+Narasannapeta,83.44,77,80,3.89
+Canavieiras,69.57,74,9,6.15
+Abhā,68.25,12,0,0
+Clyde River,35.83,93,90,20.71
+Roboré,86.09,54,18,4.61
+Buraidah,89.42,9,0,5.03
+Chui,55.9,96,100,3.42
+Thompson,73.56,31,40,6.91
+Nur-Sultan,48.15,76,0,8.95
+Calabozo,81.63,80,69,3.22
+Touros,77.9,76,19,20.04
+Mataura,45.48,93,100,2.46
+Geraldton,46.81,71,0,19.57
+Samarai,80.1,83,86,10
+Laguna,97.72,31,1,4
+Ouro Sogui,89.6,58,0,4.61
+Shelburne,73.31,93,100,17.94
+Tazovsky,41.04,73,0,10.51
+Kota Kinabalu,75.18,100,20,4.61
+Padang,75.79,88,80,3.78
+Hede,75.04,92,100,8.48
+Gimli,70.18,78,31,3.44
+Kota Tinggi,76.69,91,19,0.83
+Saldanha,48.25,78,48,8.66
+Kjøllefjord,46.47,88,100,1.36
+Vaini,75.36,69,20,10.36
+Lunglei,68.11,98,92,1.59
+Ajdabiya,85.39,31,0,10.09
+Caravelas,70.27,63,4,6.71
+Kargasok,47.19,74,52,1.25
+Torbay,65.17,65,75,16.11
+Melo,53.31,98,100,6.06
+Sundsvall,59.97,85,20,2.3
+Talaya,67.91,43,16,1.72
+Los Llanos de Aridane,63.12,91,40,14.97
+Kuusamo,51.84,87,90,8.05
+Rikitea,74.53,76,3,10
+Anloga,73.62,77,100,18.39
+Ciudad Bolivar,85.73,61,39,6.02
+Salisbury,61,82,75,8.05
+Tautira,84.22,77,2,4.99
+Kachug,55.18,87,100,4.23
+Kiryat Gat,74.88,74,0,2.01
+Acaraú,77.43,78,2,8.63
+Lompoc,71.6,71,1,18.41
+Rāwah,91.98,17,3,9.86
+Shīeli,74.75,28,4,7.25
+Amapá,74.79,85,82,2.17
+Cidreira,61.99,97,100,9.26
+Klaksvík,47.32,83,1,9.06
+Tuktoyaktuk,55.4,62,20,12.66
+Tariba,77.56,81,80,2.66
+Yerbogachën,56.73,86,77,5.7
+Talnakh,47.39,65,99,5.68
+Shubarshi,73.6,54,1,8.43
+Ilulissat,46.42,71,75,5.75
+Kuching,73.62,100,40,9.22
+Emerald,51.94,71,0,10.36
+Sandnessjøen,49.98,79,99,19.64
+Chu,61.56,33,42,4.92
+Kudat,75.13,100,20,2.3
+Marzuq,77.68,40,36,4.68
+Esperance,46.24,61,0,17.09
+Piaçabuçu,73.29,79,78,8.41
+Umeå,49.93,87,93,1.14
+Chirilagua,87.49,66,100,4.59
+Mar del Plata,49.1,76,90,15.01
+Tucupita,78.87,85,92,5.75
+Visnes,53.91,87,90,16.11
+Nanortalik,48.13,85,97,3.91
+Misratah,81.82,58,0,6.42
+Narsaq,61.02,88,95,1.36
+Aitape,78.46,85,22,5.28
+Krasnosel'kup,44.35,65,12,16.84
+Beaufort,77.16,96,71,3.18
+Tchibanga,69.55,97,63,2.37
+Siddipet,75.65,87,100,9.19
+Rocha,54.34,95,96,5.26
+Abriaquí,61.79,86,84,1.9
+Ormara,82.11,81,98,9.95
+Puerto Ayora,73.54,88,53,7
+Kungurtug,49.93,75,100,0.92
+Sabha,91.87,13,0,11.9
+Hollister,81.57,44,1,12.66
+Bāglung,68.13,82,92,4.47
+Saint-Pierre,67.95,73,90,5.75
+Krasnoshchekovo,47.73,87,65,3.33
+Chiredzi,63.68,33,0,4.74
+Qaanaaq,40.59,72,17,4.05
+Hindoria,81.61,71,100,2.06
+Necochea,44.04,69,100,11.45
+Yellowknife,79.32,34,75,23.02
+Haines Junction,75.15,27,99,9.22
+Cherskiy,72.43,34,100,8.39
+Geraldton,46.81,71,0,19.57
+Mount Isa,51.57,54,7,9.22
+Qasigiannguit,46.65,79,96,6.89
+Egvekinot,44.94,53,68,5.44
+Yertsevo,64.08,98,18,4.38
+Tevriz,51.87,85,90,3.78
+Sirte,80.8,60,0,8.77
+Vestmanna,45.52,100,90,11.5
+Sisimiut,43.97,84,100,5.55
+Calbuco,42.01,75,4,4.43
+Korla,74.26,19,0,14.23
+Barrow,51.82,76,40,16.11
+Santo Amaro,77.04,92,82,5.35
+Punta Arenas,35.71,87,0,8.05
+Bethel,78.01,78,75,8.05
+Inuvik,67.01,67,75,5.75
+Aykhal,64.74,63,32,9.26
+College,69.15,46,75,8.05
+Aguada de Pasajeros,80.74,62,88,6.62
+Fairbanks,69.19,45,20,8.05
+Orocué,80.89,80,79,3.6
+Castro,59.88,88,0,4.27
+Iqaluit,40.69,70,75,5.99
+Muros,60.57,86,100,4.54
+Kenai,57.25,54,90,10.36
+Beloha,62.76,81,2,4.5
+Liverpool,57.52,92,22,6.64
+Toora-Khem,43.52,81,87,1.9
+Vao,73.58,68,100,10.83
+Belmonte,73.9,70,8,9.35
+Hamada,72,79,100,3.4
+Dārāb,81.54,13,0,4.29
+Cartagena,85.62,70,40,9.22
+Beroroha,59.94,50,0,0.96
+Priyutovo,67.5,89,76,2.06
+Henties Bay,58.78,77,3,2.95
+Saint Paul Harbor,53.11,82,90,8.05
+Escanaba,67.3,88,90,4.61
+Batagay,78.62,35,18,5.68
+Iquitos,87.84,62,40,4.61
+Coyhaique,31.95,93,40,0
+Gamboula,68.18,95,48,3.94
+Souillac,73.78,83,75,9.22
+Nome,55.47,71,1,13.8
+Teguise,66.42,73,20,16.11
+Mazagão,82.45,87,57,3.24
+Banes,88.41,73,11,13.04
+Palmer,78.24,69,90,5.99
+St. Pete Beach,82.51,71,40,5.01
+Arapongas,72.27,68,24,3.98
+Borşa,61.92,94,99,3.4
+Sitka,60.69,82,90,5.75
+Kembé,72.21,78,85,1.36
+Mangan,74.66,95,94,2.1
+Khorixas,65.77,26,3,10.83
+Babushkin,53.47,89,100,6.26
+Lüderitz,56.46,57,0,6.04
+Coquimbo,56.93,76,0,9.22
+Shumskiy,50.11,85,48,0.74
+Hasaki,72.19,84,100,6.98
+Poole,60.96,79,100,1.01
+Bilma,92.43,10,1,10.92
+Usol'ye,54.21,92,52,1.14
+Albany,80.31,68,100,9.33
+Okakarara,54.75,32,0,5.17
+Mtwara,68.97,85,0,5.7
+Lumsden,77.94,38,67,8.97
+Obo,72.81,67,68,2.71
+Hithadhoo,82.69,72,100,12.26
+Grand Gaube,72.37,84,10,5.01
+Filingué,97.95,25,38,7.31
+Scarborough,55.6,88,39,3.94
+Oranjemund,53.35,81,2,5.88
+Mahibadhoo,82.47,70,100,10.25
+Constitución,48.04,61,0,11.48
+Provideniya,47.14,83,100,9.31
+Pevek,42.71,59,100,10.11
+Nikolskoye,64.67,91,8,4.03
+Port-Cartier,60.48,99,100,1.88
+Gari,58.1,98,92,5.06
